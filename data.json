@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Kenworth T680",
+      "description": "Camión de largo recorrido con motor PACCAR MX-13, transmisión automática y cabina aerodinámica. Ideal para viajes largos y eficiencia en combustible.",
+      "image": "https://bit.ly/3O8nMbF",
+      "cost": 145000.00
+    },
+    {
+      "title": "Kenworth W990",
+      "description": "Camión con un diseño clásico y robusto, motor PACCAR MX-13, suspensión avanzada y cabina cómoda para el conductor. Perfecto para quienes buscan potencia y estilo.",
+      "image": "https://bit.ly/3CoBggX",
+      "cost": 160000.00
+    },
+    {
+      "title": "Kenworth T880",
+      "description": "Camión de vocación pesada con opciones de motor PACCAR MX-11 o MX-13, ideal para aplicaciones en construcción y minería. Alta capacidad de carga y durabilidad.",
+      "image": "https://bit.ly/3UPWpqK",
+      "cost": 135000.00
+    },
+    {
+      "title": "Kenworth K270E",
+      "description": "Camión eléctrico de clase 6, ideal para entregas urbanas y de corta distancia. Tecnología de propulsión eléctrica y batería de alta autonomía.",
+      "image": "https://bit.ly/4ewMxJ8",
+      "cost": 90000.00
+    },
+    {
+      "title": "Kenworth T800",
+      "description": "Camión versátil y confiable para aplicaciones en terrenos difíciles, equipado con motor PACCAR MX-13 y opciones de suspensión ajustable. Perfecto para trabajos en condiciones extremas.",
+      "image": "https://bit.ly/3Z4cuLG",
+      "cost": 120000.00
+    },
+    {
+      "title": "Kenworth T370",
+      "description": "Camión de servicio mediano con motor PACCAR PX-7, cabina cómoda y excelente maniobrabilidad. Ideal para entregas urbanas y trabajos ligeros de carga.",
+      "image": "https://bit.ly/4eszskk",
+      "cost": 95000.00
+    }
+]
